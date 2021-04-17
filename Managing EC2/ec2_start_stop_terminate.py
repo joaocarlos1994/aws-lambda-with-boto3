@@ -6,12 +6,12 @@ client = boto3.client("ec2")
 #    print(startingInstances['CurrentState'])
 #    print(startingInstances['PreviousState'])
 
-#response = client.stop_instances(InstanceIds=['i-092a9ba8bdc6ed651'])
+#response = client.stop_instances(InstanceIds=['i-0af00bab8555cd916'])
 #for startingInstances in response['StoppingInstances']:
 #    print(startingInstances['CurrentState'])
 #    print(startingInstances['PreviousState'])
 
-response = client.terminate_instances(InstanceIds=['i-092a9ba8bdc6ed651'])
+response = client.terminate_instances(InstanceIds=['i-0af00bab8555cd916'])
 for startingInstances in response['TerminatingInstances']:
     print(startingInstances['CurrentState'])
     print(startingInstances['PreviousState'])
