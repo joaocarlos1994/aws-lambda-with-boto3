@@ -18,7 +18,4 @@ To connect to the high-level interface, you’ll follow a similar approach, but 
   s3_resource = boto3.resource('s3')  
 
 
-  # aws-course
-
-
   ![Certificação AWS - Mastering Boto3 & Lambda Functions Using Python by Udemy](Certificate/UC-eb7b75dc-f0b2-4f7b-b1a5-754068841091.jpg)  
