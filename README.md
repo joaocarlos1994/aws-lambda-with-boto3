@@ -21,4 +21,4 @@ To connect to the high-level interface, you’ll follow a similar approach, but 
   # aws-course
 
 
-  ![Certificação AWS - Mastering Boto3 & Lambda Functions Using Python by Udemy](Certificate/2021EAD0241_Certificado.pdf)  
+  ![Certificação AWS - Mastering Boto3 & Lambda Functions Using Python by Udemy](Certificate/UC-eb7b75dc-f0b2-4f7b-b1a5-754068841091.jpg)  
